@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">  
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/allindiacoderlife/count.svg" />
+</p>
 - 🔭 I’m currently working on ...
 <!--
 **allindiacoderlife/allindiacoderlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
